@@ -4,8 +4,15 @@
         <description><![CDATA[content coming soon]]></description>
         <link>https://thegrid.ai/cultivate-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 20:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 20:41:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cultivate-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[listen]]></title>
+            <description><![CDATA[<article><h1>listen</h1><p>In this category I will regularly post my thoughts and findings about music and its joys</p></article>]]></description>
+            <link>https://thegrid.ai/cultivate-life/listen/index.html</link>
+            <guid isPermaLink="false">96630386-d28e-47bd-a53c-f283329fef84</guid>
+            <pubDate>Mon, 04 Apr 2016 20:41:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://youtu.be/4Ykni4laQhw</p>]]></description>
