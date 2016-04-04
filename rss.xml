@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cultivate-life]]></title>
-        <description><![CDATA[cultivate-life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[content coming soon]]></title>
+        <description><![CDATA[content coming soon]]></description>
+        <link>https://thegrid.ai/cultivate-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 20:26:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 20:37:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cultivate-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/4Ykni4laQhw</p>]]></description>
+            <link>https://thegrid.ai/cultivate-life/a3db54cd-3dcc-4b68-b055-43b16b9b588f/index.html</link>
+            <guid isPermaLink="false">a3db54cd-3dcc-4b68-b055-43b16b9b588f</guid>
+            <pubDate>Mon, 04 Apr 2016 20:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dear friends, </p>]]></description>
-            <link>undefineddear-friends/index.html</link>
+            <link>https://thegrid.ai/cultivate-life/dear-friends/index.html</link>
             <guid isPermaLink="false">2604be09-917e-4b7e-8cfb-2f2d61f83061</guid>
             <pubDate>Mon, 04 Apr 2016 20:26:04 GMT</pubDate>
         </item>
