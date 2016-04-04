@@ -2,6 +2,7 @@ name: cultivate-life
 favicon: null
 layout_spectrum: 0.25072
 typography_spectrum: 0.55106
+title: content coming soon
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#231616'
-    - '#e6c8bc'
-    - '#9e9193'
-    - '#403b38'
-    - '#70706e'
+    - '#535550'
+    - '#0d111d'
+    - '#ffae54'
+    - '#fffff2'
+    - '#e67927'
   brandStrength: 1
   lightness: 0.9130185302346945
   saturation: 0.6875
