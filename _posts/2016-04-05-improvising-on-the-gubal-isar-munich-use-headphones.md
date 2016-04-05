@@ -1,14 +1,9 @@
 ---
-author:
-  - name: cultivate life
-    url: 'https://www.youtube.com/channel/UCPhnpWE2V3Ey1LodGXIA2EQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: true
 keywords:
   - duration
   - futurevevo
@@ -21,7 +16,13 @@ keywords:
   - trainor
   - autoplay
 description: 'Playing the Gubal at the Isar in the northern part of the Englischer Garten , Munich. For deep bass use headphones.'
-inLanguage: en
+datePublished: '2016-04-05T20:58:39.954Z'
+dateModified: '2016-04-05T20:58:00.908Z'
+author:
+  - name: cultivate life
+    url: 'https://www.youtube.com/channel/UCPhnpWE2V3Ey1LodGXIA2EQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4Ykni4laQhw&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4Ykni4laQhw'
 title: 'Improvising on the Gubal (Isar, Munich) [use headphones]'
-datePublished: '2016-04-05T20:54:45.968Z'
-dateModified: '2016-04-05T20:51:39.466Z'
 sourcePath: _posts/2016-04-05-improvising-on-the-gubal-isar-munich-use-headphones.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: improvising-on-the-gubal-isar-munich-use-headphones/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
