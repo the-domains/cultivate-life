@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[content coming soon]]></title>
-        <description><![CDATA[content coming soon]]></description>
+        <title><![CDATA[cultivate life]]></title>
+        <description><![CDATA[cultivate life]]></description>
         <link>https://thegrid.ai/cultivate-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 20:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:44:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cultivate-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[about]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/cultivate-life/listen/index.html</link>
             <guid isPermaLink="false">96630386-d28e-47bd-a53c-f283329fef84</guid>
             <pubDate>Mon, 04 Apr 2016 20:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://youtu.be/4Ykni4laQhw</p>]]></description>
-            <link>https://thegrid.ai/cultivate-life/a3db54cd-3dcc-4b68-b055-43b16b9b588f/index.html</link>
-            <guid isPermaLink="false">a3db54cd-3dcc-4b68-b055-43b16b9b588f</guid>
-            <pubDate>Mon, 04 Apr 2016 20:37:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
