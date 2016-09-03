@@ -28,6 +28,9 @@ navigation:
   - name: listen
     id: 96630386-d28e-47bd-a53c-f283329fef84
     type: content
+  - name: eat
+    id: 2fb070c1-e725-43ec-8458-7feee2575f84
+    type: content
 favicon: null
 title: cultivate life
 purpose: []
