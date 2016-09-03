@@ -31,6 +31,9 @@ navigation:
   - name: eat
     id: 2fb070c1-e725-43ec-8458-7feee2575f84
     type: content
+  - name: about
+    id: 6b790664-b6d4-421a-8592-075b6ad68d89
+    type: content
 favicon: null
 title: cultivate life
 purpose: []
