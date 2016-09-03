@@ -1,20 +1,4 @@
-name: cultivate life
-favicon: null
-layout_spectrum: 0.49387
 typography_spectrum: 0.40288
-title: cultivate life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3c2936'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49387
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cultivate life
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: listen
+    id: 96630386-d28e-47bd-a53c-f283329fef84
+    type: content
+favicon: null
+title: cultivate life
 purpose: []
